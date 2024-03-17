@@ -27,7 +27,6 @@
 /navigation/
 
 # Android Studio captures folder
-/captures/
 
 # Intellij
 *.ipr
